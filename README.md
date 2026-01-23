@@ -1,7 +1,7 @@
 # Data and Code for Molecular Clock Calibration Sensitivity Analyses
 
 This repository contains input files, configuration files, and outputs for Bayesian molecular clock calibration sensitivity analyses conducted using MCMCTree (PAML package).
-All analyses are based on the methods detailed in E. Carlisle, Z. Yin, D. Pisani, P. C. Donoghue, Ediacaran origin and Ediacaran-Cambrian diversification of Metazoa. *Science Advances* **10**, eadp7161 (2024).
+All analyses are based on the methods detailed in: E. Carlisle, Z. Yin, D. Pisani, P. C. Donoghue, Ediacaran origin and Ediacaran-Cambrian diversification of Metazoa. *Science Advances* **10**, eadp7161 (2024).
 
 The files provided here enable reproducibility and independent evaluation of the results presented in ...
 
